@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any new project which is for beginners ...
 - 📫 How to reach me -- work.sohail3621@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: fun to study with
+- ⚡ Fun fact: fun to study with me
 
 <!---
 Sohail3621/Sohail3621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
