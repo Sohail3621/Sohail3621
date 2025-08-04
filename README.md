@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Sohail 👋</h2>
+<h2 align="center">Hi there, I'm Sohail Solanki👋</h2>
 
 <p align="center">
   💻 Full Stack Developer in the making | 💡 Passionate about building beautiful & functional websites | 📍 Based in India
