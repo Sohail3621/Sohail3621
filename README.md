@@ -43,6 +43,7 @@
 | Project        | Description                                      | Tech Stack                | Live Link                      |
 |----------------|--------------------------------------------------|---------------------------|--------------------------------|
 | 🎯 Profile-Card | Basic UI Profile-Card which showcase User's Intro | HTML & CSS | [Live](https://sohail3621.github.io/Profile-Card/) |
+| 📋 Task Manager | Developed this projct for Organization to handle Task. | HTML & CSS & Javascript | [Live](https://sohail3621.github.io/Task-Manager/dashboard.html) |
 | 📋 Tic-Tac-Toe | Designed and developed a 2-player Tic Tac Toe game playable in the browser | HTML, CSS, JS| [Live](https://sohail3621.github.io/TIC-TAC-TOE/) |
 | 📋 My-Wikipedia | Developed a web application that allows users to search and view Wikipedia articles dynamically | HTML, CSS, JS| [Live](https://sohail3621.github.io/My-Wikipedia/) |
 
